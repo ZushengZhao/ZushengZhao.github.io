@@ -1,14 +1,35 @@
 ---
 layout: photo
-title: Gallery Post
+title: 写在前面
 date: 2017-10-14 
 category: 
 -
-description: Gallery Post Test. 测试图片类文章的显示。
+description: 个人博客的第一篇文章，写给自己。
 ---
 
-Nunc dignissim volutpat enim, non sollicitudin purus dignissim id. Nam sit amet urna eu velit lacinia eleifend. Proin auctor rhoncus ligula nec aliquet. Donec sodales molestie lacinia. Curabitur dictum faucibus urna at convallis. Aliquam in lectus at urna rutrum porta. In lacus arcu, molestie ut vestibulum ut, rhoncus sed eros. Sed et elit vitae risus pretium consectetur vel in mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus turpis quis lectus rhoncus adipiscing. Proin pulvinar placerat suscipit. Maecenas imperdiet, quam vitae varius auctor, enim mauris vulputate sapien, nec laoreet neque diam non quam.
+域名买回来已经快一个月了，之前忙着保研的事情没有好好弄，今天终于算是正式上线了，也顺便整理了一下自己的思路。 Nam sit amet urna eu velit lacinia eleifend. Proin auctor rhoncus ligula nec aliquet. Donec sodales molestie lacinia. Curabitur dictum faucibus urna at convallis. Aliquam in lectus at urna rutrum porta. In lacus arcu, molestie ut vestibulum ut, rhoncus sed eros. Sed et elit vitae risus pretium consectetur vel in mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus turpis quis lectus rhoncus adipiscing. Proin pulvinar placerat suscipit. Maecenas imperdiet, quam vitae varius auctor, enim mauris vulputate sapien, nec laoreet neque diam non quam.
 
+# 为什么建个人博客
+
+最开始是自己查资料的时候看到了许多大佬的个人技术博客，很钦佩，萌生了自己也搞一个博客的想法。后来想想，自己手头似乎是没有什么可以给自己写杂七杂八的东西的地方，尤其是学习C语言和一些软件的时候，做笔记的话没有用电脑敲出代码高效，软件的一些操作也可以通过截屏保存下来供以后查找。当然，也可以写写随笔，将自己曾经想到的东西记录下来。
+
+至于个人博客，完全是因为自己想要一个专属自己的域名，一个没有广告的干干净净的网页。
+
+# 怎么建个人博客
+
+我后面出的第一篇文章应该就是总结自己利用GitHub搭建博客的过程。简单说一下就是注册域名、配置GitHub、设置DNS、下载Jekyll模板、将独立域名与GitHub Pages的空间绑定，最后更新博文。至于为什么用GitHub而不是WordPress，主要是自己不想掏钱租服务器了，而GitHub是免费的，哈哈。其实GitHub工作原理充分体现了团队协作的思想，而且GitHub上有很多大神，大家交流起来也比较方便，用GitHub托管代码或者进行共享也非常便利。
+
+# 关于这个博客
+
+- 初心还是为了学习，为了更好地学习。以后将会至少一周一篇，总结一下自己的学习收获，不断督促自己。其实不局限学习STM32或者其他什么东西，自己所思所想以随笔的形式记录下来，促进思考，也可以在以后拿出来看看，看看自己的心路历程。
+
+这会是一个比较杂的博客。
+
+- 不会增加太多花哨的功能。当然主要是自己能力有限，现在不会投入过多精力在博客的美化设计上，满足我基本的使用要求，界面简洁明了就行，不需要过多的喧哗，我静下心来写，静下心来看。
+
+- 当然，我希望与人分享，这是博客所以公开的原因。我希望自己总结的一些东西能帮到其他人，自己也能在与别人的交流中不断完善自己，这样这个博客就有了进一步的价值。
+
+- 最后，我希望自己在网络之中留存一些真正属于自己的空间，一片成长的沃土。
 <!-- more -->
 
 ![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg)
