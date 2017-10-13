@@ -32,6 +32,6 @@ description: 个人博客的第一篇文章，写给自己。
 - 最后，我希望自己在网络之中留存一些真正属于自己的空间，一片成长的沃土。
 <!-- more -->
 
-![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg)
+**![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg)**
 
 
