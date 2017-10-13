@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何使用 Jacman 主题
+data: 2017-10-13
 tags:
 - Jekyll
 - Jacman
