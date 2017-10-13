@@ -2,7 +2,7 @@
 layout: photo
 title: 写在前面
 date: 2017-10-14 
-
+---
 -
 description: 个人博客的第一篇文章，写给自己。
 ---
