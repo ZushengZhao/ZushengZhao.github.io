@@ -89,7 +89,7 @@ author:
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:  http://weibo.com/5772467746    ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: 86811d96  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina:     13260836219 ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+  tsina:     5772467746 ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:   1610536485@qq.com   ## e.g. imjark@gmail.com
