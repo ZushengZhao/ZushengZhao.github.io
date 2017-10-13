@@ -13,13 +13,7 @@ description: 工科男的个人自述
 
 民谣吉他业余入门级选手。                                                                                                                                                                       
 
-对了，有时间啃书了，我会偶尔抽风写东西
+对了，有时间啃书了，我会偶尔写东西.
 
-一个工科男，一个高冷的逗比cbxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxv
-
-一个工科男，一个高冷的逗比                                                                   
-
-民谣吉他业余                                                                      
 
 
