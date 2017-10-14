@@ -13,7 +13,7 @@ description: 简单介绍如何搭建自己的私人博客
 
 ## 太长不看版
 
-1. 注册域名。我用的是[Godaddy](http://www.godaddy.com/）；
+1. 注册域名。我用的是[Godaddy](http://www.godaddy.com/)；
 2. 注册[GitHub](http://www.github.com/)，配置SSH Keys；
 3. 将独立域名与 GitHub Pages 的空间绑定；
 5. 用GitHub Pages建立博客（刚开始是直接用的Jekyll模板）；
