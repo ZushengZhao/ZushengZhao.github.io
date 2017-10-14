@@ -114,6 +114,6 @@ description: 简单介绍如何搭建自己的私人博客
 
 <!-- more -->
 
-**![星星在夜空中闪亮  星空下我不停流浪](http://oxt33qs1f.bkt.clouddn.com/IMG_20170429_000155.jpg)**
+**![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/%E7%90%A5%E7%8F%80%E8%89%B2%E9%BB%84%E6%98%8F%E5%83%8F%E7%B3%96%E5%9C%A8%E5%BE%88%E7%BE%8E%E7%9A%84%E8%BF%9C%E6%96%B9.jpg)**
 
 
