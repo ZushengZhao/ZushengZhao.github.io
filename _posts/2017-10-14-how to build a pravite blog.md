@@ -70,7 +70,17 @@ description: 简单介绍如何搭建自己的私人博客
 
 - 下载jekyll themes并上传到个人仓库
 
-  下载模板可以直接点击[jekyll themes](http://jekyllthemes.org/)，选择其中的一个模板进行下载；也可以直接fork别人仓库的代码，例如我的github.io仓库，里面
+  下载模板可以直接点击[jekyll themes](http://jekyllthemes.org/)，选择其中的一个模板进行下载；也可以直接fork别人仓库的代码，或者直接进入别人仓库下载代码（.zip）。
+  
+ ![](http://oxt33qs1f.bkt.clouddn.com/8.png)
+ 
+ ![](http://oxt33qs1f.bkt.clouddn.com/9.jpg)
+ 
+  上传到个人仓库(upload)
+ 
+ ![](http://oxt33qs1f.bkt.clouddn.com/10.jpg)
+ 
+  同样的，当你把theme上传到自己的pages仓库后，修改文件CNAME，将里面的域名改为自己的域名，就可以了。
 
 
 
