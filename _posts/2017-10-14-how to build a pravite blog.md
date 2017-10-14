@@ -9,7 +9,7 @@ description: 简单介绍如何搭建自己的私人博客
 
 ## 前言
 
-一枚不懂编程和计算机的机械狗，只能用自己能理解的最简单的方法建站。用GitHub的原因有很多，体验一下GitHub的团队协作的思想，见识一下上面的大牛，而且GitHub是免费的，空间做一个静态网页足够了。当然，作为一个小白，买了域名以后不想再花钱租服务器了也是一个原因。
+   一枚不懂编程和计算机的机械狗，只能用自己能理解的最简单的方法建站。用GitHub的原因有很多，体验一下GitHub的团队协作的思想，见识一下上面的大牛，而且GitHub是免费的，空间做一个静态网页足够了。当然，作为一个小白，买了域名以后不想再花钱租服务器了也是一个原因。
 
 ## 太长不看版
 
@@ -27,7 +27,7 @@ description: 简单介绍如何搭建自己的私人博客
 
 此处省略许多许多字......
 
-  当你拥有了自己的域名、GitHub账户，下好了相应的软件，配置好了SSH Keys，并进行了域名解析，设置好了DNS，下面的教程从如何使用GitHub建立自己的博客开始。
+  当你拥有了自己的域名、GitHub账户，下好了相应的软件，配置好了SSH Keys，并进行了域名解析，设置好了DNS，下面的教程从如何使用GitHub建立自己的博客开始。一定记得下面的教程是在完成了上述操作后才可以进行的！！！
 
 # 1. 使用GitHub建立博客
 
@@ -35,15 +35,21 @@ description: 简单介绍如何搭建自己的私人博客
 
   进入个人GitHub主页，点击new repository，Repository name为 你的用户名.github.io，例如我的GitHub用户名是zushengzhao,那么我的pages仓库名就是是zushengzhao.github.io。
 
+
 ![](http://oxt33qs1f.bkt.clouddn.com/1.jpg)
+
 
 ![](http://oxt33qs1f.bkt.clouddn.com/2.jpg)
 
+
   完成之后可以直接在settings里面点击Choose a theme，然后select a theme。
+  
 
 ![](http://oxt33qs1f.bkt.clouddn.com/3.jpg)
 
+
 ![](http://oxt33qs1f.bkt.clouddn.com/4.jpg)
+
 
   选择完成后打开"你的用户名.github.io"确认一下确认一下网页是否发布，例如我的是[zushengzhao.github.io](zushengzhao.github.io)。
 刚刚选择完主题后可能要稍微等一会才能刷新出网页。
@@ -55,10 +61,13 @@ description: 简单介绍如何搭建自己的私人博客
 - GitHub Pages 的设置
 
   进入你的github.io仓库，点击 create new file 新建文件，文件名为 CNAME ，在编辑框内输入你的域名。
+  
 
 ![](http://oxt33qs1f.bkt.clouddn.com/5.jpg)
 
+
 ![](http://oxt33qs1f.bkt.clouddn.com/6.jpg)
+
 
   这一步完成后，你的域名应该已经导向 "你的用户名.github.io" 了。
 
@@ -72,13 +81,18 @@ description: 简单介绍如何搭建自己的私人博客
 
   下载模板可以直接点击[jekyll themes](http://jekyllthemes.org/)，选择其中的一个模板进行下载；也可以直接fork别人仓库的代码，或者直接进入别人仓库下载代码（.zip）。
   
+  
  ![](http://oxt33qs1f.bkt.clouddn.com/8.png)
+ 
  
  ![](http://oxt33qs1f.bkt.clouddn.com/9.jpg)
  
+ 
   上传到个人仓库(upload)
+  
  
  ![](http://oxt33qs1f.bkt.clouddn.com/10.jpg)
+ 
  
   同样的，当你把theme上传到自己的pages仓库后，修改文件CNAME，将里面的域名改为自己的域名，就可以了。
  
