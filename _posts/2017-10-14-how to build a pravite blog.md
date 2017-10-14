@@ -13,8 +13,8 @@ description: 简单介绍如何搭建自己的私人博客
 
 ## 太长不看版
 
-1. 注册域名。（我用的是[Godaddy](www.godaddy.com）；
-2. 注册[GitHub](www.github.com)，配置SSH Keys；
+1. 注册域名。我用的是[Godaddy](http://www.godaddy.com/）；
+2. 注册[GitHub](http://www.github.com/)，配置SSH Keys；
 3. 将独立域名与 GitHub Pages 的空间绑定；
 5. 用GitHub Pages建立博客（刚开始是直接用的Jekyll模板）；
 6. 将独立域名与 GitHub Pages 的空间绑定；
@@ -92,7 +92,7 @@ description: 简单介绍如何搭建自己的私人博客
   
  - 有关图床
   
-  图床我用的 [七牛](www.qiniu.com) ，也是看了推荐才用的，体验还可以，后期流量大了以后貌似会收费，目前暂时先用着。
+  图床我用的 [七牛](http://www.qiniu.com/) ，也是看了推荐才用的，体验还可以，后期流量大了以后貌似会收费，目前暂时先用着。
   如何使用七牛，参考 [这里](http://jingyan.baidu.com/article/fd8044fac2a7df5031137aad.html)。
 
 
