@@ -30,6 +30,6 @@ description: 个人博客的第一篇文章，写给自己。
 - 最后，我希望自己在网络之中留存一些真正属于自己的空间，一片成长的沃土。
 <!-- more -->
 
-**![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](http://oxt33qs1f.bkt.clouddn.com/IMG_20170429_000155.jpg)**
+**![星星在夜空中闪亮  星空下我不停流浪](http://oxt33qs1f.bkt.clouddn.com/IMG_20170429_000155.jpg)**
 
 
