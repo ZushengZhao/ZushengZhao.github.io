@@ -108,12 +108,8 @@ description: 简单介绍如何搭建自己的私人博客
   
   图床我用的 [七牛](http://www.qiniu.com/) ，也是看了推荐才用的，体验还可以，后期流量大了以后貌似会收费，目前暂时先用着。
   如何使用七牛，参考 [这里](http://jingyan.baidu.com/article/fd8044fac2a7df5031137aad.html)。
-
-
-
-
 <!-- more -->
 
-![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/12.jpg)
+**![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/12.jpg)**
 
 
