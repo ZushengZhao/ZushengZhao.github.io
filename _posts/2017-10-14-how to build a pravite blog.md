@@ -110,6 +110,6 @@ description: 简单介绍如何搭建自己的私人博客
   如何使用七牛，参考 [这里](http://jingyan.baidu.com/article/fd8044fac2a7df5031137aad.html)。
 <!-- more -->
 
-**![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/12.jpg)**
+**![星星在夜空中闪亮  星空下我不停流浪](http://oxt33qs1f.bkt.clouddn.com/12.jpg)**
 
 
