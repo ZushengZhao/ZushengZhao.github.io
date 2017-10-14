@@ -114,6 +114,6 @@ description: 简单介绍如何搭建自己的私人博客
 
 <!-- more -->
 
-![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/11.jpg)
+![琥珀色黄昏像糖在很美的远方](http://oxt33qs1f.bkt.clouddn.com/12.jpg)
 
 
