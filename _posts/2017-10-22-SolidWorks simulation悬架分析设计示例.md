@@ -137,6 +137,9 @@ description: 静态应力分析、优化设计、疲劳分析在悬架设计上�
    ![](http://oxt33qs1f.bkt.clouddn.com/jieguo.png)
    
  
+<!-- more -->
+
+**![Let us face reality, loyalty to an ideal.](http://oxt33qs1f.bkt.clouddn.com/Kurt%20Donald%20Cobain.jpg)**
 
    
 
