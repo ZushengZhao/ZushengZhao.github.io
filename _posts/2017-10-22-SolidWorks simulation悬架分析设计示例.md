@@ -28,7 +28,7 @@ description: 静态应力分析、优化设计、疲劳分析在悬架设计上�
  - d.设置算例属性；
  - e.运行算例，查看图解。
  
- 示例来自《SolidWorks simulation 基础教程》和《SolidWorks simulation 高级教程》，示例文件在[这里](http://pan.baidu.com/s/1misYADy)，密码  ij5m。
+ 示例来自《SolidWorks simulation 基础教程》和《SolidWorks simulation 高级教程》，示例文件我自己修改过了，文件在[这里](http://pan.baidu.com/s/1misYADy)，密码  ij5m。
  
  ## 正文
  
