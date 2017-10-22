@@ -95,11 +95,11 @@ description: 静态应力分析、优化设计、疲劳分析在悬架设计上�
    
    添加传感器同上，然后变量这里选择尺寸D2，带步长范围，步长0.5.
    
-   ![](http://oxt33qs1f.bkt.clouddn.com/zhuyaozhi1.png)
+   ![](http://oxt33qs1f.bkt.clouddn.com/zhuyaozhibianliang1.png)
    
    然后运行仿真，从结果看出，当D2从4.5到5的时候最大应力有显著减少，然后继续增大D2，应力和应变变化不明显。对设计来说，5mm应该是D2的一个合适的值。
    
-   ![](http://oxt33qs1f.bkt.clouddn.com/zhuyaozhi2.png)
+   ![](http://oxt33qs1f.bkt.clouddn.com/zhuyaozhibianliang2.png)
    
    
  # 3.疲劳分析
