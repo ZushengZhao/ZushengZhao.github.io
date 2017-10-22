@@ -58,3 +58,10 @@ description: 三维图出二维图的指南
 ![](http://oxt33qs1f.bkt.clouddn.com/dwg.png)
 
 结束~
+
+
+ 
+ 
+<!-- more -->
+
+**![Let us face reality, loyalty to an ideal.](http://oxt33qs1f.bkt.clouddn.com/Kurt%20Donald%20Cobain2.jpg)**
