@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: SolidWorks悬架分析设计示例
-date: 2017-10-22 
+date: 2017-10-22-22:00
 description: 静态应力分析、优化设计、疲劳分析在悬架设计上面的应用。
 ---
 
