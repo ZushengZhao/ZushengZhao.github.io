@@ -39,7 +39,7 @@ description: 三维图出二维图的指南
 
 # 另存为DWG格式
 
-如图，另存为“DWG”文件，然后点击选项，设置里面的映射，也可以直接加载[映射文件](https://pan.baidu.com/s/1kUFOwj9)。
+如图，另存为“DWG”文件，然后点击选项，设置里面的映射，也可以直接加载[映射文件](https://pan.baidu.com/s/1o7LhWVo)。
 映射的主要目的就是将SW工程图里面的图层对应到DWG文件里面，然后用CAXA或者AutoCAD编辑DWG文件的时候就会看到图层那里除了默认的几个图层外会有从SW映射过去的图层，比如SW里面的可见边线。
 
 ![](http://oxt33qs1f.bkt.clouddn.com/xuanxiang.png)
