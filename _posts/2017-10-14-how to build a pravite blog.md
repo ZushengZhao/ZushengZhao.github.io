@@ -4,8 +4,8 @@ title: 如何搭建自己的私人博客
 date: 2017-10-14 
 description: 简单介绍如何搭建自己的私人博客
 tags: 
-_ Jekyll
-_ 博客
+- Jekyll
+- 博客
 categories: 博客
 ---
 
