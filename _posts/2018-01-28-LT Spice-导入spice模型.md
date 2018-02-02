@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LT Spice-导入spice模型
-date: 2018-2-2
+date: 2018-01-28
 description: 如何将外部spice模型导入LT Spice软件
 tags: 
 - LT Spice
