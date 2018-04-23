@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MATLAB学习笔记_7：用simulink解微分方程"
-date: 2018-04-012
+date: 2018-04-12
 categories: MATLAB
 tags: [MATLAB, 学习]
 description: simulink 微分方程
