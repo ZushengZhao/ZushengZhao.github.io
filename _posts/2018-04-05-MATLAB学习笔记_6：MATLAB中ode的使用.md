@@ -28,7 +28,7 @@ description: ode
 
 ### 参考资料：
 
-1. MathWorks官网：[选择 ODE 求解器](https://ww2.mathworks.cn/help/matlab/math/choose-an-ode-solver.html)。
-2. mec_zhang的博客：[ Matlab之ODE](https://blog.csdn.net/mec_zhang/article/details/71038481)。
-3. 观测者的博客：[MATLAB中ODE的使用](http://blog.sina.com.cn/s/blog_6b20fa3d0101ne1z.html)。
+1. MathWorks官网：[选择 ODE 求解器](https://ww2.mathworks.cn/help/matlab/math/choose-an-ode-solver.html)
+2. mec_zhang的博客：[ Matlab之ODE](https://blog.csdn.net/mec_zhang/article/details/71038481)
+3. 观测者的博客：[MATLAB中ODE的使用](http://blog.sina.com.cn/s/blog_6b20fa3d0101ne1z.html)
 4. 百度百科：[ode45](https://baike.baidu.com/item/ode45/6674723?fr=aladdin)
