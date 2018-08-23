@@ -7,9 +7,7 @@ tags: [Mecanum Wheel, Simulink]
 description: 介绍麦克纳姆轮的原理，对其进行运动学分析，利用MATLAB/simulink 建模仿真得到不同运动条件下四轮转速的关系。
 ---
 
-摘要：
-
-介绍麦克纳姆轮的原理，对其进行运动学分析，利用MATLAB/simulink 建模仿真得到不同运动条件下四个轮字转速的关系。
+摘要：介绍麦克纳姆轮的原理，对其进行运动学分析，利用MATLAB/simulink 建模仿真得到不同运动条件下四个轮字转速的关系。
 ---
 
 -[麦克纳姆轮（Mecanum Wheel）](https://baike.baidu.com/item/%E9%BA%A6%E5%85%8B%E7%BA%B3%E5%A7%86%E8%BD%AE/3827219?fr=aladdin)是做[RoboMaster](https://www.robomaster.com/zh-CN)机器人大赛的时候接触到的，当时就觉得这种轮子很神奇，因为主办方有一款麦轮出售，我们一直也是用的官方的麦轮，对其没有进行深入的了解。在2018RoboMaster中部赛区的比赛上看到了有的学校的麦轮底盘平移的时候可以同时自转，对这个比较感兴趣，就了解了一些麦轮的知识。然后在工作室跟去年秋招的新人进行了一次培训交流，这里再进行一下总结，很多会用到培训的PPT。
