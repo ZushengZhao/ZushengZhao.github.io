@@ -63,4 +63,4 @@ DDX_Control(pDX, IDC_MSCOMM2, mscomm);
 #include "CMSComm2.h"
 #include "afxwin.h"
 ```
-添加完头文件之后，就可以编译了，编译成功，就可以进行之后的操作了。
+- 添加完头文件之后，就可以编译了，编译成功，就可以进行之后的操作了。
