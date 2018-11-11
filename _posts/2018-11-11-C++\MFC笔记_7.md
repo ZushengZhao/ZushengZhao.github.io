@@ -88,7 +88,7 @@ void CMSCommDemoDlg::OnBnClickedBtnSendData()
 	hextemp[2] = 0x01;
 	hextemp[3] = 0x02;
 	hextemp[12] = 0x00;
-	hextemp[13] = 0x55;
+	hextemp[13] = 0x55;   //以上，自定义的数据头和数据尾，与下位机处理相关
 	intdataSend = round((theta1) * 10);  //theta1是实现定义的double类型的变量
 	hextemp[4] = (intdataSend & 0xff00) >> 8;  //将theta1用两个字节表示，下同
 	hextemp[5] = (intdataSend & 0x00ff);
